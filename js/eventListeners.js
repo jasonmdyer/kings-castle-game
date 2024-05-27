@@ -20,7 +20,7 @@ window.addEventListener('keydown', (event) => {
           return
         }
       }
-      if (player.velocity.y === 0) player.velocity.y = -25
+      if (player.velocity.y === 0) player.velocity.y = -15
 
       break
     case 'a':
